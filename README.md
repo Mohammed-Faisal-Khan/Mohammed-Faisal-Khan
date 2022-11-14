@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Stock Market data Analysis**
 
-- 👀 I’m interested in **ML, DL, NLP & AI**
+- 👀 I’m interested in **ML, DL, NLP & AI with Python Programming**
 
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, NLP, AI, R, MYSQL, Tableau, Azure**
 
